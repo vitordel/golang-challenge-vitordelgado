@@ -6,7 +6,7 @@ Esse repositório contém o manifesto do Desafio Golang para os candidatos à va
 
 A Flex Consulta existe para inovar o setor logístico do agronegócio conectando quem conecta o Brasil de ponta a ponta. Nosso compromisso é de desenvolver soluções tecnológicas entregando segurança e agilidade na operação, reduzindo riscos e gastos desnecessários para as transportadoras de cargas. Visite nosso website em flexconsulta.com.br.
 
-O Propósito desse Desafio é verificar sua capacidade de seguir um manifesto com instruções básicas sobre demandas corriqueiras em nosso dia a dia de trabalho. Somos constantemente confrontados com exigências novas e desafiadoras, e precisamos de um profissional que gosta de desafios e seja resoluto, sempre entregando o melhor possível. 
+O Propósito desse Desafio é verificar sua capacidade de seguir um manifesto com instruções básicas sobre demandas corriqueiras em nosso dia a dia de trabalho. Somos constantemente confrontados com exigências novas e desafiadoras, e precisamos de um profissional que goste de desafios e seja resoluto, sempre entregando o melhor possível. 
 
 ## 2) Objetivo do desafio
 
