@@ -71,7 +71,7 @@ Seu projeto será avaliado por vários aspectos que consideramos importantes:
 
 * Manutenibilidade: O código deve ser fácil de modificar e estender. Isso significa evitar complexidade desnecessária e escrever código modular que pode ser reutilizado;
 
-* Eficiência: O código deve ser otimizado em termos de uso de recursos, como memória e processamento. Isso é particularmente importante em aplicações de alto desempenho;
+* Eficiência: O código deve ser otimizado em termos de uso de recursos, como memória e processamento. Isso é particularmente importante em aplicações de alto desempenho, e em ambientes virtualizados;
 
 * Robustez: O código deve ser capaz de lidar com condições inesperadas e dados de entrada errôneos sem falhar;
 
