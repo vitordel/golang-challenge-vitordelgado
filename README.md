@@ -41,7 +41,7 @@ Obs: O payload você pode enviar vazio, visto se tratar de uma simulação.
 
 Você deverá compilar os binários executáveis das suas aplicações "server" e "cliente" para ambos os sistemas operacionais Linux (Ubuntu) e Windows. Nós testaremos seus executáveis para verificar se eles atendem às demandas desse manifesto. 
 
-Basicamente, o que queremos, é rodar o server em um terminal, rodar o cliente em outro terminal, e ver o server receber as mensagens enviadas pelo cliente. Logo, o server deve escrever as mensagens recebidas no terminal.
+Basicamente, o que queremos, é rodar o server em um terminal, rodar o cliente em outro terminal, e ver o server receber as mensagens enviadas pelo cliente. Logo, o server deve escrever as mensagens recebidas no terminal. Tanto server quanto cliente serão testados no mesmo localhost. 
 
 ## 4) Requisitos técnicos
 
