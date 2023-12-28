@@ -99,7 +99,7 @@ Seu projeto será avaliado por vários aspectos que consideramos importantes:
 
 ## 8) Contato com equipe Flex Consulta
 
-Qualquer dúvida sobre o Desafio, você poderá enviar email para nosso dev senior miguel.mello@flexconsulta.com.br
+Qualquer dúvida sobre o Desafio, você poderá enviar email para nosso gerente de engenharia miguel.mello@flexconsulta.com.br
 
 Muito sucesso no seu projeto.
 Queremos ser impressionados.
