@@ -33,8 +33,8 @@ Para concluir esse Desafio você deverá entregar um sistema distribuído de env
 Essa mensagem simples possui apenas quatro índices, sendo:
 
 * id: Deve ser um UUID único para cada mensagem enviada;
-* cliente: Deve ser o UUID que você desiginou para o cliente;
-* date: Deve o time stamp no momento do envio da mensagem;
+* cliente: Deve ser o UUID que você designou para o cliente;
+* date: Deve ser o time stamp no momento do envio da mensagem;
 * payload: Deve conter os dados enviados pelo cliente;
 
 Obs: O payload você pode enviar vazio, visto se tratar de uma simulação.
