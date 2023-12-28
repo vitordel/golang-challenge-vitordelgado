@@ -55,7 +55,7 @@ Basicamente, o que queremos, é rodar o server em um terminal, rodar o cliente e
 
 ## 5) Entregáveis esperados
 
-* Quando você achar que já pode entregar a sua solução, você deverá transferir a propriedade do seu repositório para a Flex Consulta. Transfira para o usuário "flexconsulta";
+* Quando você achar que já pode entregar a sua solução, você deverá transferir a propriedade do seu repositório para a Flex Consulta. Transfira para o usuário github "ricardogomes764";
 
 * Esperamos os executáveis no diretório "bin" do seu repositório;
 
