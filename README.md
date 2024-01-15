@@ -1,4 +1,13 @@
-# Manifesto do Desafio Golang
+# Desafio para a empresa Flex Consulta
+
+- Nessa aplicação usamos a linguagem Go, o banco de dados MySQL para guardar os usuários e RabbitMQ como ferramenta de mensageria.
+- É importante fazer a Migration do banco, através do Migrate e instalar as dependências e bibliotecas presentes, para poder fazer a request dos dados do usuário logado.
+- Os executáveis estão na pasta bin.
+- Temos nessa aplicação um sistema de envio de mensagens e um sistema de recebimento da mesma, fora a aplicação principal com um CRUD de users.
+
+Abaixo temos as regras do desafio:
+
+## Manifesto do Desafio Golang
 
 Esse repositório contém o manifesto do Desafio Golang para os candidatos à vaga de Dev Backend Pleno. Você deve fazer uma cópia desse repositório, desenvolver sua própria implementação do Desafio, dando o nome "golang-challenge-seunome". Boa sorte.
 
